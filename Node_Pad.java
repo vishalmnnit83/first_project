@@ -1,4 +1,4 @@
-package node_pad;
+package note_pad;
  
 import javax.swing.*;
 import java.awt.*;
